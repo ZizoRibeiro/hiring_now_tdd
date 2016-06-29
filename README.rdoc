@@ -1,0 +1,4 @@
+== README
+
+This APP WILL be my playground to test TDD on Rails framework, it will be fun create
+tests and try to fix the problems even before I would write the code.
